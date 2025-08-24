@@ -336,6 +336,12 @@ main {
   border-radius: 20px;
 }
 
+.avatar-box img {
+  border-radius: 20px;
+  object-fit: cover;
+}
+
+
 .info-content .name {
   color: var(--white-2);
   font-size: var(--fs-3);
@@ -1340,8 +1346,6 @@ textarea.form-input::-webkit-resizer { display: none; }
   .avatar-box { border-radius: 30px; }
 
   .avatar-box img { width: 120px; }
-
-  .avatar-box img { border-radius: 20px; }
 
   .info-content .name { margin-bottom: 15px; }
 
