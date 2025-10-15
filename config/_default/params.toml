@@ -22,6 +22,7 @@ rssnext = { }
 advertisement = { }
 highlightCurrentMenuArea = true
 defaultBackgroundImage = "background.svg"
+mainSections = ["posts"]
 
 [header]
 layout = "basic"
@@ -35,12 +36,12 @@ showScrollToTop = true
 
 [homepage]
 layout = "background"
-showRecent = false
-showRecentItems = 5
+showRecent = "enable"
+showRecentItems = "4"
 showMoreLink = false
 showMoreLinkDest = "/posts/"
-cardView = false
-cardViewScreenWidth = false
+cardView = "enable"
+cardViewScreenWidth = "enable"
 layoutBackgroundBlur = "disable"
 disableHeroImageFilter = false
 
