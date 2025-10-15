@@ -1,4 +1,4 @@
-colorScheme = "blowfish"
+colorScheme = "forest"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
 enableA11y = false
@@ -21,6 +21,7 @@ verification = { }
 rssnext = { }
 advertisement = { }
 highlightCurrentMenuArea = true
+defaultBackgroundImage = "background.svg"
 
 [header]
 layout = "basic"
@@ -33,14 +34,14 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "profile"
+layout = "background"
 showRecent = false
 showRecentItems = 5
 showMoreLink = false
 showMoreLinkDest = "/posts/"
 cardView = false
 cardViewScreenWidth = false
-layoutBackgroundBlur = false
+layoutBackgroundBlur = "disable"
 disableHeroImageFilter = false
 
 [article]
