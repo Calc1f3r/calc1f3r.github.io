@@ -1,0 +1,25 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Calc1f3r"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "93446080.png"
+description = "Blog, curriculum and portfolio."
+
+[[params.author.links]]
+github = "https://github.com/Calc1f3r"
+
+[[params.author.links]]
+linkedin = "https://www.linkedin.com/in/jorge-rodriguez-velasco/"
+
+["params.author"]
+name = "Jorge Rodriguez Velasco"
+image = "my-avatar.jpeg"
+headline = "Cybersecurity enthusiast and Information Systems Engineer"
+bio = "Ingeniero en Sistemas de Información por la Universidad de Alcalá a falta de una asignatura, con especial interés en ciberseguridad, ciberinteligencia, pentesting y hardware hacking, en busca de una oportunidad laboral que me permita crecer y continuar aprendiendo."
