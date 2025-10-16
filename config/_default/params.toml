@@ -16,6 +16,7 @@ firebase = { }
 fathomAnalytics = { }
 umamiAnalytics = { }
 selineAnalytics = { }
+googleAnalytics = "GTM-NTX9LWHF"
 buymeacoffee = { }
 verification = { }
 rssnext = { }
