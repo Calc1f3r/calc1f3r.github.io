@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sherlocks on Calc1f3r</title>
+    <link>http://localhost:26010/tags/sherlocks/</link>
+    <description>Recent content in Sherlocks on Calc1f3r</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Jorge Rodriguez Velasco</copyright>
+    <lastBuildDate>Wed, 15 Oct 2025 23:12:45 +0300</lastBuildDate><atom:link href="http://localhost:26010/tags/sherlocks/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Meerkat (HTB Sherlock Writeup)</title>
+      <link>http://localhost:26010/posts/meerkat/</link>
+      <pubDate>Wed, 15 Oct 2025 23:12:45 +0300</pubDate>
+      
+      <guid>http://localhost:26010/posts/meerkat/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:26010/posts/meerkat/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

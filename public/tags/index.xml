@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Calc1f3r</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:26010/tags/</link>
     <description>Recent content in Tags on Calc1f3r</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Jorge Rodriguez Velasco</copyright>
-    <lastBuildDate>Wed, 15 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Oct 2025 23:12:45 +0300</lastBuildDate><atom:link href="http://localhost:26010/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Example</title>
-      <link>http://localhost:1313/tags/example/</link>
-      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <title>Htb</title>
+      <link>http://localhost:26010/tags/htb/</link>
+      <pubDate>Wed, 15 Oct 2025 23:12:45 +0300</pubDate>
       
-      <guid>http://localhost:1313/tags/example/</guid>
+      <guid>http://localhost:26010/tags/htb/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sherlocks</title>
+      <link>http://localhost:26010/tags/sherlocks/</link>
+      <pubDate>Wed, 15 Oct 2025 23:12:45 +0300</pubDate>
+      
+      <guid>http://localhost:26010/tags/sherlocks/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Resume</title>
-      <link>http://localhost:1313/tags/resume/</link>
+      <link>http://localhost:26010/tags/resume/</link>
       <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/resume/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Tag</title>
-      <link>http://localhost:1313/tags/tag/</link>
-      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/tag/</guid>
+      <guid>http://localhost:26010/tags/resume/</guid>
       <description></description>
       
     </item>
